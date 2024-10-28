@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Welcome to my blog [Mageseの飛行器](https://www.magese.com)
+- 😄 Welcome to my blog [MageseのBlog](https://www.magese.com)
 
 
 <!--
